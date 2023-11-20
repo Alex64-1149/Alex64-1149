@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning fishing antics
 - 💞️ I’m looking to collaborate on biology coding
 - 📫 How to reach me try fishing near dugongs
+- 😎 En plus je suis tro bg
 
 <!---
 Alex64-1149/Alex64-1149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
